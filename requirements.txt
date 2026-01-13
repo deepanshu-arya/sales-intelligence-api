@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+scikit-learn
+python-multipart
+
+# Auth & Security
+passlib[bcrypt]
+python-jose[cryptography]
+
+# Optional but safe
+python-dotenv
