@@ -5,6 +5,7 @@ pandas
 scikit-learn
 python-multipart
 slowapi
+razorpay
 
 # Auth & Security
 passlib[bcrypt]
