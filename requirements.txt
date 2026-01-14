@@ -1,15 +1,8 @@
 fastapi
 uvicorn
-sqlalchemy
-pandas
-scikit-learn
-python-multipart
+jinja2
 slowapi
 razorpay
-
-# Auth & Security
-passlib[bcrypt]
-python-jose[cryptography]
-
-# Optional but safe
 python-dotenv
+sqlalchemy
+pydantic
