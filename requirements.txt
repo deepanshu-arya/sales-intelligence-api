@@ -4,6 +4,7 @@ sqlalchemy
 pandas
 scikit-learn
 python-multipart
+slowapi
 
 # Auth & Security
 passlib[bcrypt]
