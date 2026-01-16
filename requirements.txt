@@ -6,3 +6,4 @@ razorpay
 python-dotenv
 sqlalchemy
 pydantic
+pandas
