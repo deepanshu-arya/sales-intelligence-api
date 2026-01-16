@@ -9,4 +9,5 @@ pydantic
 pandas
 python-multipart
 python-jose[cryptography]
+passlib[bcrypt]
 
